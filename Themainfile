@@ -16,3 +16,5 @@ class store {
 	}
 	System.out.println(“the total is : “ +receipt);
 	}}} 
+Total amount=amount*0.25;
+print amount;
